@@ -1,0 +1,14 @@
+.product-card {
+  position: relative;
+  /* other styles */
+}
+
+delete-checkbox {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+button {
+  margin-top: 20px;
+}
